@@ -1,0 +1,1 @@
+# Solved tests for Java OOP class
